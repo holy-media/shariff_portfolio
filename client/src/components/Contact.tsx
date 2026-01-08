@@ -95,10 +95,10 @@ export default function Contact() {
             <a href="mailto:shariffumar2003@gmail.com" className="flex items-center gap-4">
               <Mail /> shariffumar2003@gmail.com
             </a>
-            <a href="https://www.linkedin.com/in/umarshariff24/" target="_blank">
+            <a href="https://www.linkedin.com/in/umarshariff24/" target="_blank" className="flex items-center gap-4">
               <Linkedin /> Umar Shariff
             </a>
-            <a href="https://www.instagram.com/umarshariff.24" target="_blank">
+            <a href="https://www.instagram.com/umarshariff.24" target="_blank" className="flex items-center gap-4">
               <Instagram /> @umarshariff.24
             </a>
             <div className="flex items-center gap-4">
